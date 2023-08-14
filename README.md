@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuhrymac
 - 👀 I’m interested in ReactJS/NextJS, React Native, UI/UX, IoT, System Design
-- 🌱 I’m currently learning Vue, Flutter, Bluetooth BLE/Serial Communication, Go
+- 🌱 I’m currently learning Vue, Flutter, Bluetooth BLE/Serial Communication, ESP32 Development and Go
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
